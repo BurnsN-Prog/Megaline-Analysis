@@ -1,7 +1,7 @@
 # Megaline Analysis
 
 ## Project Aim:
-Analyze customer usage data to determine which mobile plan — Surf or Ultimate — is more profitable for Megaline and recommend a structure for a new plan.
+Analyze customer usage data to determine which mobile plan — Surf or Ultimate — is more profitable for Megaline.
 
 ## Tools Used:
 - Python
