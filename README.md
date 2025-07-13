@@ -1,5 +1,3 @@
-# Megaline Analysis
-
 ## Project Aim:
 Analyze customer usage data to determine which mobile plan — Surf or Ultimate — is more profitable for Megaline.
 
